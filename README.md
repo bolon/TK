@@ -19,3 +19,7 @@ or for specific test suites
 cd suites
 cucumber features/<suite_name.feature>
 ```
+
+Notes:
+For the sake of simplicity, for OTP feature I use email as the receiver.
+How I do that? Make the account doesn't verify the phone number.
